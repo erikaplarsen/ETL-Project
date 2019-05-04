@@ -1,0 +1,15 @@
+﻿Country Name,Country Code,Series Name,Series Code,2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018]
+"Venezuela, RB",VEN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,27.08094145,28.18746471,26.09021232,21.06899563,40.63942752,62.16864998,121.7380853,254.9485348,..,..
+"Venezuela, RB",VEN,GINI index (World Bank estimate),SI.POV.GINI,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,Employment in industry (% of total employment) (modeled ILO estimate),SL.IND.EMPL.ZS,20.95700073,21.02300072,21.10700035,21.22599983,21.32900047,21.28000069,21.17099953,21.19599915,21.14999962,21.10300064
+"Venezuela, RB",VEN,Final consumption expenditure (annual % growth),NE.CON.TOTL.KD.ZG,-2.071673828,-1.073994166,4.411403067,6.864940815,4.43833962,-2.545805993,..,..,..,..
+"Venezuela, RB",VEN,GNI per capita (constant 2010 US$),NY.GNP.PCAP.KD,13894.97687,13378.15179,13467.28135,14010.65035,13954.67289,13607.75489,..,..,..,..
+"Venezuela, RB",VEN,Gross savings (% of GDP),NY.GNS.ICTR.ZS,22.41370968,31.43295512,30.54288285,25.62897701,19.02767037,8.939355092,..,..,..,..
+"Venezuela, RB",VEN,Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS,62.88064646,55.89488273,55.16190029,59.2728362,65.09003035,75.28960223,..,..,..,..
+"Venezuela, RB",VEN,Human capital index (HCI) (scale 0-1),HD.HCI.OVRL,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,40.81209353,48.40860228,48.63213241,45.16019843,44.72616122,37.24468889,..,..,..,..
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,
+Last Updated: 04/24/2019,,,,,,,,,,,,,
